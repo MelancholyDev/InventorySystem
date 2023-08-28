@@ -1,4 +1,4 @@
-# TestTaskInventory
+## InventorySystem
 **Тестовое задание по инвентарю**<br />
 <br />
 Управление:<br />
